@@ -61,5 +61,3 @@ Result: 10
 
 Equation mode accepts equations with or without an explicit equals sign (`=0` is assumed otherwise). Solutions are returned as SymPy sets.
 
-## Contributing
-Please review `CONTRIBUTING.md` before submitting changes and respect the `CODE_OF_CONDUCT.md`. The project is released under the MIT License.
